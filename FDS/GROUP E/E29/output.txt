@@ -1,0 +1,68 @@
+ 1.Insert Job
+ 2.Delete Job
+ 3.Display
+ 4.Exit
+ Enter your choice : 1
+
+ Enter data :
+1
+
+
+ 1.Insert Job
+ 2.Delete Job
+ 3.Display
+ 4.Exit
+ Enter your choice : 1
+
+ Enter data :
+84
+
+
+ 1.Insert Job
+ 2.Delete Job
+ 3.Display
+ 4.Exit
+ Enter your choice : 1
+
+ Enter data :
+33
+
+
+ 1.Insert Job
+ 2.Delete Job
+ 3.Display
+ 4.Exit
+ Enter your choice : 3
+
+ Queue contains :
+
+1 84 33
+ 1.Insert Job
+ 2.Delete Job
+ 3.Display
+ 4.Exit
+ Enter your choice : 2
+
+ Deleted Element = 1
+
+Remaining Jobs :
+
+84 33
+ 1.Insert Job
+ 2.Delete Job
+ 3.Display
+ 4.Exit
+ Enter your choice : 3
+
+ Queue contains :
+
+84 33
+ 1.Insert Job
+ 2.Delete Job
+ 3.Display
+ 4.Exit
+ Enter your choice : 4
+
+ Exiting Program.....
+Process returned 0 (0x0)   execution time : 47.109 s
+Press any key to continue.

@@ -1,0 +1,87 @@
+-----------------
+  Pizza parlor
+-----------------
+****Menu*****
+1. Accept order
+2. Serve order
+3. Display orders
+4. Exit
+Choice: 1
+Thank you for order.Order id is : 1
+-----------------
+  Pizza parlor
+-----------------
+****Menu*****
+1. Accept order
+2. Serve order
+3. Display orders
+4. Exit
+Choice: 1
+Thank you for order.Order id is : 2
+-----------------
+  Pizza parlor
+-----------------
+****Menu*****
+1. Accept order
+2. Serve order
+3. Display orders
+4. Exit
+Choice: 1
+Thank you for order.Order id is : 3
+-----------------
+  Pizza parlor
+-----------------
+****Menu*****
+1. Accept order
+2. Serve order
+3. Display orders
+4. Exit
+Choice: 2
+
+ Order No. 1 is processed.
+
+-----------------
+  Pizza parlor
+-----------------
+****Menu*****
+1. Accept order
+2. Serve order
+3. Display orders
+4. Exit
+Choice: 3
+Order Id's:
+2  3
+-----------------
+  Pizza parlor
+-----------------
+****Menu*****
+1. Accept order
+2. Serve order
+3. Display orders
+4. Exit
+Choice: 2
+
+ Order No. 2 is processed.
+
+-----------------
+  Pizza parlor
+-----------------
+****Menu*****
+1. Accept order
+2. Serve order
+3. Display orders
+4. Exit
+Choice: 3
+Order Id's:
+3
+-----------------
+  Pizza parlor
+-----------------
+****Menu*****
+1. Accept order
+2. Serve order
+3. Display orders
+4. Exit
+Choice: 4
+
+Thank You.Keep Visiting.

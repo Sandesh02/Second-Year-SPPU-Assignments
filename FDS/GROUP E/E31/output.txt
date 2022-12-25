@@ -1,0 +1,114 @@
+
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:1
+Enter the element to be inserted:23
+
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:2
+Enter the element to be inserted:34
+
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:3
+23 34
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:1
+Enter the element to be inserted:234
+
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:2
+Enter the element to be inserted:12345
+
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:4
+The deleted element is 164738305
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:3
+23 0 12345
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:5
+The deleted element is 12345
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:3
+23 0
+
+****DEQUEUE OPERATION****
+
+1-Insert at beginning
+2-Insert at end
+3_Display
+4_Deletion from front
+5-Deletion from rear
+6_Exit
+Enter your choice<1-4>:6

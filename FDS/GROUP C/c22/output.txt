@@ -1,0 +1,40 @@
+/* ----------------OUTPUT-------------------------
+student@IOE-L1LAB:~$ g++ Pr_6CD.cpp -o a
+student@IOE-L1LAB:~$ ./a
+	 How many Linked Lists: 3
+	 Enter 10 Students of SE Comp : 
+	 Enter Student Initial: A
+	 Enter Student Initial: B
+	 Enter Student Initial: C
+	 Enter Student Initial: D
+	 Enter Student Initial: E
+	 Enter Student Initial: F
+	 Enter Student Initial: G
+	 Enter Student Initial: H
+	 Enter Student Initial: I
+	 Enter Student Initial: J
+  A  B  C  D  E  F  G  H  I  J
+	 Enter 5 Students who like Vanilla Icecreme: 
+	 Enter Student Initial: A
+	 Enter Student Initial: B
+	 Enter Student Initial: C
+	 Enter Student Initial: D
+	 Enter Student Initial: E
+  A  B  C  D  E
+	 Enter 5 Students who like Butterscotch Icecreme: 
+	 Enter Student Initial: D
+	 Enter Student Initial: E
+	 Enter Student Initial: F
+	 Enter Student Initial: G
+	 Enter Student Initial: H
+  D  E  F  G  H
+ Input Sets:------------------------
+ Set 'U':   A  B  C  D  E  F  G  H  I  J
+ Set 'A':   A  B  C  D  E
+ Set 'B':   D  E  F  G  H
+ Output Sets:------------------------
+	 Set A U B:  A B C D E F G H
+	 Set A ^ B:  D E
+	 Set A - B:  A B C
+	 Set B - A:  F G H
+	 Set U - (A U B):  I J

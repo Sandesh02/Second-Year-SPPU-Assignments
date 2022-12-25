@@ -1,0 +1,258 @@
+/*Select List    
+1.List 1       
+2.List 2       
+Enter choice : 1
+
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     1
+Enter PRN number: 1222
+Enter name: sandesh
+sandesh
+=============== List Created ===============
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     1
+
+List is already created.
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     4
+
+Enter PRN No. after do you want insert : 1222
+
+Enter PRN Number : 55
+Enter Name : sham
+
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     5
+
+=============== List: ===============
+1222 sandesh
+55 sham
+
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     10
+
+ List is sorted.
+=============== List: ===============
+55 sham
+1222 sandesh
+
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)     
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     9
+
+Total members(including President & Secretary) : 2
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     11
+
+Select List
+1.List 1
+2.List 2
+Enter choice : 2
+
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     1
+Enter PRN number: 44
+Enter name: asaa
+asaa
+=============== List Created ===============
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     3
+
+Enter PRN Number : 34
+Enter Name : ajaj
+
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     5
+
+=============== List: ===============
+44 asaa
+34 ajaj
+
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     13
+
+PRN NO:34 Name: ajaj
+PRN NO:44 Name: asaa
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     12
+
+After concatenation list :
+
+=============== List: ===============
+55 sham
+1222 sandesh
+44 asaa
+34 ajaj
+
+1. Create
+2. Insert President
+3. Insert secretary
+4. Insert after position(member)
+5. Display list
+6. Delete President
+7.Delete Secretary
+8. Delete Member
+9. Find total No. of members
+10. Sort list
+11. Reselect List
+12. Combine lists
+13.Reverse Display
+0. Exit
+Enter your choice :     0
+
+=============== GOOD BYE ===============*/
